@@ -5,13 +5,13 @@
       "mobile": 2,
       "tablet": 3,
       "desktop": 5
-    }
+      }
      "roomTitles": {
       "Kitchen Dining": "Main Floor Kitchen",
       "Master Bedroom": "Main Floor Master Suite",
       "Bedroom 2 Nursery Office": "Main Floor Bedroom 2",
       "Sitting Piano Room": "Main Floor Sitting Room"
-    }
+      }
   },
 
   "photos/main-floor/entryway/entryway-01.jpg": "Front door entry",
