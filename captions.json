@@ -1,6 +1,6 @@
 {
   "_config": {
-    "groupBy": "floor",
+    "groupBy": "none",
     "thumbnailCols": {
       "mobile": 2,
       "tablet": 3,
