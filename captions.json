@@ -1,6 +1,6 @@
 {
   "_config": {
-    "groupBy": "room",
+    "groupBy": "floor",
     "thumbnailCols": {
       "mobile": 2,
       "tablet": 3,
