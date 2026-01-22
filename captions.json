@@ -1,4 +1,13 @@
 {
+  "_config": {
+    "groupBy": "room",
+    "thumbnailCols": {
+      "mobile": 2,
+      "tablet": 3,
+      "desktop": 5
+    }
+  },
+  
   "photos/main-floor/bathroom-2/bathroom-2-01.jpg": "Bathroom 2",
   "photos/main-floor/bathroom-2/bathroom-2-02.jpg": "Bathroom 2",
   "photos/main-floor/bathroom-2/bathroom-2-03.jpg": "Bathroom 2",
