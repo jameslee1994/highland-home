@@ -6,20 +6,19 @@
       "tablet": 3,
       "desktop": 5
     }
+     "roomTitles": {
+      "Kitchen Dining": "Main Floor Kitchen",
+      "Master Bedroom": "Main Floor Master Suite",
+      "Bedroom 2 Nursery Office": "Main Floor Bedroom 2",
+      "Sitting Piano Room": "Main Floor Sitting Room"
+    }
   },
-  
-  "photos/main-floor/bathroom-2/bathroom-2-01.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-02.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-03.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-04.jpg": "Bathroom 2",
-  
-  "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-01.jpg": "Bedroom 2 - Perfect for a nursury, small office or bedroom",
-  "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-02.jpg": "Bedroom 2 - Perfect for a nursury, small office or bedroom",
-  
-  "photos/main-floor/bedroom-3-office/bedroom-3-office-01.jpg": "Bedroom 3",
-  "photos/main-floor/bedroom-3-office/bedroom-3-office-02.jpg": "Bedroom 3",
-  
+
   "photos/main-floor/entryway/entryway-01.jpg": "Front door entry",
+
+  "photos/main-floor/sitting-piano-room/sitting-piano-room-01.jpg": "Sitting room or piano room",
+  "photos/main-floor/sitting-piano-room/sitting-piano-room-02.jpg": "Sitting room or piano room",
+  "photos/main-floor/sitting-piano-room/sitting-piano-room-03.jpg": "Sitting room or piano room",
   
   "photos/main-floor/family-room/family-room-01.jpg": "Family Room",
   "photos/main-floor/family-room/family-room-02.jpg": "Family Room",
@@ -28,59 +27,69 @@
   "photos/main-floor/family-room/family-room-05.jpg": "Family Room",
   "photos/main-floor/family-room/family-room-06.jpg": "Family Room",
   "photos/main-floor/family-room/family-room-07.jpg": "Family Room",
-  
-  "photos/main-floor/garage/garage-01.jpg": "",
-  "photos/main-floor/hallway/hallway-01.jpg": "Hallway",
-  
-  "photos/main-floor/kitchen-dining/kitchen-dining-01.jpg": "Kitchen/Dining Area",
+
+    "photos/main-floor/kitchen-dining/kitchen-dining-01.jpg": "Kitchen/Dining Area",
   "photos/main-floor/kitchen-dining/kitchen-dining-02.jpg": "Kitchen/Dining Area",
   "photos/main-floor/kitchen-dining/kitchen-dining-03.jpg": "Kitchen/Dining Area",
   "photos/main-floor/kitchen-dining/kitchen-dining-04.jpg": "Kitchen/Dining Area",
   "photos/main-floor/kitchen-dining/kitchen-dining-05.jpg": "Kitchen/Dining Area",
   "photos/main-floor/kitchen-dining/kitchen-dining-06.jpg": "Kitchen/Dining Area",
+
+  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-01.jpg": "Laundry room",
+  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-02.jpg": "Laundry room",
+  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-03.jpg": "Laundry room",
+  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-06.jpg": "Laundry room",
   
+  "photos/main-floor/bathroom-2/bathroom-2-01.jpg": "Bathroom 2",
+  "photos/main-floor/bathroom-2/bathroom-2-02.jpg": "Bathroom 2",
+  "photos/main-floor/bathroom-2/bathroom-2-03.jpg": "Bathroom 2",
+  "photos/main-floor/bathroom-2/bathroom-2-04.jpg": "Bathroom 2",
+
+  "photos/main-floor/hallway/hallway-01.jpg": "Hallway",
+
+  "photos/main-floor/master-bedroom/master-bedroom-01.jpg": "Master bedroom",
+  "photos/main-floor/master-bedroom/master-bedroom-02.jpg": "Master bedroom",
+  "photos/main-floor/master-bedroom/master-bedroom-03.jpg": "Master bedroom",
+  "photos/main-floor/master-bedroom/master-bedroom-04.jpg": "Master bedroom",
+  "photos/main-floor/master-bedroom/master-bedroom-05.jpg": "Master bedroom",
+
   "photos/main-floor/master-bathroom/master-bathroom-01.jpg": "Master bathroom",
   "photos/main-floor/master-bathroom/master-bathroom-02.jpg": "Master bathroom",
   "photos/main-floor/master-bathroom/master-bathroom-03.jpg": "Master bathroom",
   "photos/main-floor/master-bathroom/master-bathroom-04.jpg": "Master bathroom",
   "photos/main-floor/master-bathroom/master-bathroom-05.jpg": "Master bathroom",
   
-  "photos/main-floor/master-bedroom/master-bedroom-01.jpg": "Master bedroom",
-  "photos/main-floor/master-bedroom/master-bedroom-02.jpg": "Master bedroom",
-  "photos/main-floor/master-bedroom/master-bedroom-03.jpg": "Master bedroom",
-  "photos/main-floor/master-bedroom/master-bedroom-04.jpg": "Master bedroom",
-  "photos/main-floor/master-bedroom/master-bedroom-05.jpg": "Master bedroom",
+  "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-01.jpg": "Bedroom 2 - Perfect for a nursury, small office or bedroom",
+  "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-02.jpg": "Bedroom 2 - Perfect for a nursury, small office or bedroom",
   
-  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-01.jpg": "Laundry room",
-  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-02.jpg": "Laundry room",
-  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-03.jpg": "Laundry room",
-  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-06.jpg": "Laundry room",
-  
-  "photos/main-floor/sitting-piano-room/sitting-piano-room-01.jpg": "Sitting room or piano room",
-  "photos/main-floor/sitting-piano-room/sitting-piano-room-02.jpg": "Sitting room or piano room",
-  "photos/main-floor/sitting-piano-room/sitting-piano-room-03.jpg": "Sitting room or piano room",
-  
+  "photos/main-floor/bedroom-3-office/bedroom-3-office-01.jpg": "Bedroom 3",
+  "photos/main-floor/bedroom-3-office/bedroom-3-office-02.jpg": "Bedroom 3",
+
   "photos/main-floor/stairs/stairs-01.jpg": "",
-  
-  "photos/upstairs/bathroom-3/bathroom-3-01.jpg": "Upstairs Bathroom",
-  
+
   "photos/upstairs/bedroom-4/bedroom-4-01.jpg": "Upstairs Bedroom 1",
   "photos/upstairs/bedroom-4/bedroom-4-02.jpg": "Upstairs Bedroom 1",
   "photos/upstairs/bedroom-4/bedroom-4-03.jpg": "Upstairs Bedroom 1",
+  
+  "photos/upstairs/bathroom-3/bathroom-3-01.jpg": "Upstairs Bathroom",
+
   "photos/upstairs/bedroom-5/bedroom-5-01.jpg": "Upstairs Bedroom 2",
   "photos/upstairs/bedroom-5/bedroom-5-02.jpg": "Upstairs Bedroom 2",
   "photos/upstairs/bedroom-5/bedroom-5-03.jpg": "Upstairs Bedroom 2",
   
   "photos/upstairs/book-nook/book-nook-01.jpg": "",
-  "photos/basement/bathroom-5-laundry-2/bathroom-5-laundry-01.jpg": "",
-  "photos/basement/office-bedroom-9/office-bedroom-9-01.jpg": "",
-  "photos/basement/bedroom-10-office/bedroom-10-office-01.jpg": "Downstairs bedroom/office",
-  
+
   "photos/basement/exercise-room-bedroom-8/exercise-room-bedroom-8-01.jpg": "Downstairs exercise room or large bedroom",
   "photos/basement/exercise-room-bedroom-8/exercise-room-bedroom-8-02.jpg": "Downstairs exercise room or large bedroom",
   "photos/basement/exercise-room-bedroom-8/exercise-room-bedroom-8-03.jpg": "Downstairs exercise room or large bedroom",
   "photos/basement/exercise-room-bedroom-8/exercise-room-bedroom-8-04.jpg": "Downstairs exercise room or large bedroom",
-  
+
+  "photos/basement/bedroom-10-office/bedroom-10-office-01.jpg": "Downstairs bedroom/office",
+
+  "photos/basement/bathroom-5-laundry-2/bathroom-5-laundry-01.jpg": "",
+  "photos/basement/office-bedroom-9/office-bedroom-9-01.jpg": "",
+    
+   
   "photos/basement/food-storage-pantry/food-storage-pantry-01.jpg": "",
   "photos/basement/guest-kitchen-dining-2/guest-kitchen-dining-01.jpg": "",
   "photos/basement/guest-walk-in-closet/guest-walk-in-closet-01.jpg": "",
@@ -95,6 +104,7 @@
   "photos/basement/guest-suite-bedroom-6/guest-suite-bedroom-6-02.jpg": "Guest Suite Bedroom",
   "photos/basement/guest-suite-bedroom-6/guest-suite-bedroom-6-03.jpg": "Guest Suite Bedroom",
   "photos/basement/small-office/small-office-01.jpg": "",
+  "photos/main-floor/garage/garage-01.jpg": "",
   
   "photos/exterior/east-backyard/east-backyard-01.jpg": "",
   "photos/exterior/neighborhood-location/neighborhood-location-01.jpg": "",
