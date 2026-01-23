@@ -7,10 +7,21 @@
       "desktop": 5
       },
      "roomTitles": {
-      "Kitchen Dining": "Main Floor Kitchen",
-      "Master Bedroom": "Main Floor Master Suite",
-      "Bedroom 2 Nursery Office": "Main Floor Bedroom 2",
+      "Entryway": "Main Floor Entry"
       "Sitting Piano Room": "Main Floor Sitting Room"
+      "Family Room": "Main Floor Family Room",
+      "Kitchen Dining": "Main Floor Kitchen",
+      "Mudroom Laundry Room": "Main Floor Laundry",
+      "Master Bedroom": "Main Floor Master Suite",
+      "Master Bathroom": "Main Floor Master Bath",
+      "Hallway": "Main Floor Hallway",
+      "Bedroom 2 Nursery Office": "Main Floor Bedroom 2",
+      "Bedroom 3 Office Bedroom": "Main Floor Office or Bedroom 3"
+      "Bedroom 4": "Upstairs Bedroom 1",
+      "Bathroom 3": "Upstairs Bathroom",
+      "Bedroom 5": "Upstairs Bedroom 2"
+      "Exercise Room Bedroom 8": "Downstairs Exercise Room",
+      "Bedroom 10 Office": "Downstairs Bedroom",
       }
   },
 
@@ -39,13 +50,6 @@
   "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-02.jpg": "Laundry room",
   "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-03.jpg": "Laundry room",
   "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-06.jpg": "Laundry room",
-  
-  "photos/main-floor/bathroom-2/bathroom-2-01.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-02.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-03.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-04.jpg": "Bathroom 2",
-
-  "photos/main-floor/hallway/hallway-01.jpg": "Hallway",
 
   "photos/main-floor/master-bedroom/master-bedroom-01.jpg": "Master bedroom",
   "photos/main-floor/master-bedroom/master-bedroom-02.jpg": "Master bedroom",
@@ -58,9 +62,16 @@
   "photos/main-floor/master-bathroom/master-bathroom-03.jpg": "Master bathroom",
   "photos/main-floor/master-bathroom/master-bathroom-04.jpg": "Master bathroom",
   "photos/main-floor/master-bathroom/master-bathroom-05.jpg": "Master bathroom",
+
+  "photos/main-floor/hallway/hallway-01.jpg": "Hallway",
   
   "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-01.jpg": "Bedroom 2 - Perfect for a nursury, small office or bedroom",
   "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-02.jpg": "Bedroom 2 - Perfect for a nursury, small office or bedroom",
+  
+  "photos/main-floor/bathroom-2/bathroom-2-01.jpg": "Bathroom 2",
+  "photos/main-floor/bathroom-2/bathroom-2-02.jpg": "Bathroom 2",
+  "photos/main-floor/bathroom-2/bathroom-2-03.jpg": "Bathroom 2",
+  "photos/main-floor/bathroom-2/bathroom-2-04.jpg": "Bathroom 2",
   
   "photos/main-floor/bedroom-3-office/bedroom-3-office-01.jpg": "Bedroom 3",
   "photos/main-floor/bedroom-3-office/bedroom-3-office-02.jpg": "Bedroom 3",
