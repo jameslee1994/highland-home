@@ -5,7 +5,7 @@
       "mobile": 2,
       "tablet": 3,
       "desktop": 5
-      },
+    },
      "roomTitles": {
       "Entryway": "Main Floor Entry",
       "Sitting Piano Room": "Main Floor Sitting Room",
@@ -24,7 +24,7 @@
       "Bedroom 10 Office": "Downstairs Bedroom",
       "Guest Suite Bedroom 6": "Downstairs Master Bedroom",
       "Guest Bathroom 4": "Downstairs Master Bathroom"
-      }
+    }
   },
 
   "photos/main-floor/entryway/entryway-01.jpg": "Front door entry",
