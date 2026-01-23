@@ -7,8 +7,8 @@
       "desktop": 5
       },
      "roomTitles": {
-      "Entryway": "Main Floor Entry"
-      "Sitting Piano Room": "Main Floor Sitting Room"
+      "Entryway": "Main Floor Entry",
+      "Sitting Piano Room": "Main Floor Sitting Room",
       "Family Room": "Main Floor Family Room",
       "Kitchen Dining": "Main Floor Kitchen",
       "Mudroom Laundry Room": "Main Floor Laundry",
@@ -19,7 +19,7 @@
       "Bedroom 3 Office Bedroom": "Main Floor Office or Bedroom 3"
       "Bedroom 4": "Upstairs Bedroom 1",
       "Bathroom 3": "Upstairs Bathroom",
-      "Bedroom 5": "Upstairs Bedroom 2"
+      "Bedroom 5": "Upstairs Bedroom 2",
       "Exercise Room Bedroom 8": "Downstairs Exercise Room",
       "Bedroom 10 Office": "Downstairs Bedroom",
       "Guest Suite Bedroom 6": "Downstairs Master Bedroom",
