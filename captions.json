@@ -1,86 +1,106 @@
 {
   "_config": {
-    "groupBy": "floor",
+    "groupBy": "room",
     "thumbnailCols": {
       "mobile": 2,
       "tablet": 3,
       "desktop": 5
+    },
+     "roomTitles": {
+      "Entryway": "Main Floor Entry",
+      "Sitting Piano Room": "Main Floor Sitting Room",
+      "Family Room": "Main Floor Family Room",
+      "Kitchen Dining": "Main Floor Kitchen",
+      "Mudroom Laundry Room": "Main Floor Laundry",
+      "Master Bedroom": "Main Floor Master Suite",
+      "Master Bathroom": "Main Floor Master Bath",
+      "Hallway": "Main Floor Hallway",
+      "Bedroom 2 Nursery Office": "Main Floor Bedroom 2",
+      "Bedroom 3 Office Bedroom": "Main Floor Office or Bedroom 3",
+      "Bedroom 4": "Upstairs Bedroom 1",
+      "Bathroom 3": "Upstairs Bathroom",
+      "Bedroom 5": "Upstairs Bedroom 2",
+      "Exercise Room Bedroom 8": "Downstairs Exercise Room",
+      "Bedroom 10 Office": "Downstairs Bedroom",
+      "Guest Suite Bedroom 6": "Downstairs Master Bedroom",
+      "Guest Bathroom 4": "Downstairs Master Bathroom"
     }
   },
+  "photos/main-floor/entryway/entryway-07.jpg": "Front door entry - High 10ft ceilings, custom trimwork, elegant chandelier, custom travertine tilework with hardwood maple accents.",
+  "photos/main-floor/entryway/entryway-04.jpg": "Front door entry - Formal sitting room is right off the entry for sitting and chatting with visitors.",
+  "photos/main-floor/entryway/entryway-01.jpg": "Front door entry - High window and ceiling lights above the solid knotty alder front door adds additional light and a warm feel.",
+
+  "photos/main-floor/sitting-piano-room/sitting-piano-room-01.jpg": "Elegant french doors, hardwood maple floor, 10-foot crown moulded ceiling with chandelier lighting, and custom raised-panel wainscoting create an inviting yet elegant atmosphere for a formal sitting area or music room",
+  "photos/main-floor/sitting-piano-room/sitting-piano-room-03.jpg": "*Large, windows looking out to the covered front porch, make it easy to see who is at the front door, or to bask in the early morning sunshine.",
+  "photos/main-floor/sitting-piano-room/sitting-piano-room-08.jpg": "This is a perfect room for sitting to chat with visitors, or for the kids to practice their music while you sit on the couch and cheer them on.",
   
-  "photos/main-floor/bathroom-2/bathroom-2-01.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-02.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-03.jpg": "Bathroom 2",
-  "photos/main-floor/bathroom-2/bathroom-2-04.jpg": "Bathroom 2",
+  "photos/main-floor/family-room/family-room-03.jpg": "Family Room - *Family Room - Hardwood maple floor, vaulted ceilings and tall windows add to the cozy, light, airy feel",
+  "photos/main-floor/family-room/family-room-01.jpg": "Family Room - Cozy natural gas fireplace, with custom stone work and custom knotty alder mantel",
+  "photos/main-floor/family-room/family-room-12.jpg": "Family Room - Ceiling fan & lights, built-in wall and ceiling speakers for true surround sound experience in the living room",
+  "photos/main-floor/family-room/family-room-05.jpg": "Family Room - Giant connected living area is perfect for family gatherings and entertaining. Fluid space makes it easy to rearrange for special events.",
+
+  "photos/main-floor/kitchen-dining/kitchen-dining-02.jpg": "Main Floor Kitchen - Bright and airy with lots of light, and warm custom tons of storage. ",
+  "photos/main-floor/kitchen-dining/kitchen-dining-03.jpg": "*Main Floor Kitchen - Spacious cooking area with huge granite countertops, built in swing-out chairs. Tons of storage in custom knotty alder cabinets",
+  "photos/main-floor/kitchen-dining/kitchen-dining-05.jpg": "Main Floor Kitchen - Room for oversize fridge. Custom formal china hutch. Hardwood maple floors.",
+  "photos/main-floor/kitchen-dining/kitchen-dining-09.jpg": "Main Floor Kitchen - Kitchen desk/computer area with granite surface and knotty alder pantry cabinets.",
+  "photos/main-floor/kitchen-dining/kitchen-dining-10.jpg": "Main Floor Kitchen - Tall knotty alder pantry cabinets. Double wall ovens.",
+  "photos/main-floor/kitchen-dining/kitchen-dining-11.jpg": "Main Floor Kitchen - Granite backsplash. Travertine tiled wall. Gas range. Plenty of counter/level outlets.",
+  "photos/main-floor/kitchen-dining/kitchen-dining-12.jpg": "Main Floor Kitchen - Views to the backyard and covered patio from the sink. Granite and tile backsplash. High-end Bosch dishwasher.",
+  "photos/main-floor/kitchen-dining/kitchen-dining-01.jpg": "Main Floor Dining Area - French doors open to covered backyard patio, perfect for large gatherings",
+  "photos/main-floor/kitchen-dining/kitchen-dining-08.jpg": "Main Floor Kitchen/Dining Area. Large family area lets parents stay connected to what's going on from the kitchen. Also makes it flexible to expand dining area when friends or family come over", 
+
+  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-03.jpg": "*Roomy Main Floor Laundry room features a long run of upper cabinets that reach near the ceiling with raised-panel doors and dark, modern pulls. Travertine tile floors are built to handle wet laundry duties. Lots of countertop area for crafts or folding/ironing",
+  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-02.jpg": "A hanging rod above the sink is perfect for air-drying clothes or hanging items straight out of the dryer to prevent wrinkles. Bright flourescent ceiling lights and undercabinet LEDs make this a bright and open utilty space.",
+  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-06.jpg": "Main Floor Laundry room includes a utility sink with coved backsplash and center-set faucet with a high-arc swivel spout, for filling large buckets or washing bulky items. Double-door cabinet providing hidden storage for laundry detergents, cleaning supplies, etc",
+  "photos/main-floor/mudroom-laundry-room/mudroom-laundry-room-01.jpg": "Mudroom with Lockers. A mud room with ceiling-height custom knotty alder lockers and tile flooring sits conveniently right between the garage entrance and the laundry room.", 
+
+  "photos/main-floor/master-bedroom/master-bedroom-01.jpg": "*Main Floor Master bedroom - 9 ft ceiling, custom trimwork, can lights, ceiling fan",
+  "photos/main-floor/master-bedroom/master-bedroom-02.jpg": "Main Floor Master bedroom - large window looks out over the backyard and welcomes plenty of natural light",
+  "photos/main-floor/master-bedroom/master-bedroom-05.jpg": "Main Floor Master bedroom - separate doors provide optional sound and visual privacy from the master bath area and walk-in closet.",
+
+  "photos/main-floor/master-bathroom/master-bathroom-05.jpg": "*Main Floor Master bathroom features dual vanities with custom cabinets on a spacious granite countertop. Fixtures are oil-rubbed bronze and brushed nickel hardware. A large, frameless mirror spans the length, illuminated by decorative light fixtures.",
+  "photos/main-floor/master-bathroom/master-bathroom-03.jpg": "The spacious jetted corner tub is big enough for two, with a custom tile surround, and windows with horizontal blinds for privacy and light control",
+  "photos/main-floor/master-bathroom/master-bathroom-04.jpg": "Custom knotty alder floor to ceiling storage cupboards provide extensive vertical storage for towels, tissues and more.",
+  "photos/main-floor/master-bathroom/master-bathroom-17.jpg": "Floor, bath and shower feature custom travertine tile work with a matching diamond motif.",
+  "photos/main-floor/master-bathroom/master-bathroom-11.jpg": "Custom tiled shower for two is custom designed with high-end plumbing fixtures, featuring a dual showerhead system. One side includes a tall fixed wall-mounted showerhead with multiple recessed body jets for a spa-like experience...", 
+  "photos/main-floor/master-bathroom/master-bathroom-12.jpg": "...The other side features a removable hose sprayer for more flexibility. Dual water heaters ensure that even long showers can stay hot and luxurious",
+  "photos/main-floor/master-bathroom/master-bathroom-13.jpg": "A private toilet area features custom knotty alder cabinets above the toilet, with an open shelf at the bottom and crown moulding at the top.",
+
+  "photos/main-floor/hallway/hallway-01.jpg": "A hallway separates the open family area from the more private bedroom area of the main floor.",
   
-  "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-01.jpg": "Bedroom 2 - Perfect for a nursury, small office or bedroom",
-  "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-02.jpg": "Bedroom 2 - Perfect for a nursury, small office or bedroom",
-  
-  "photos/main-floor/bedroom-3-office/bedroom-3-office-01.jpg": "Bedroom 3",
-  "photos/main-floor/bedroom-3-office/bedroom-3-office-02.jpg": "Bedroom 3",
-  
-  "photos/main-floor/entryway/entryway-01.jpg": "Front door entry",
-  
-  "photos/main-floor/family-room/family-room-01.jpg": "Family Room",
-  "photos/main-floor/family-room/family-room-02.jpg": "Family Room",
-  "photos/main-floor/family-room/family-room-03.jpg": "Family Room",
-  "photos/main-floor/family-room/family-room-04.jpg": "Family Room",
-  "photos/main-floor/family-room/family-room-05.jpg": "Family Room",
-  "photos/main-floor/family-room/family-room-06.jpg": "Family Room",
-  "photos/main-floor/family-room/family-room-07.jpg": "Family Room",
-  
-  "photos/main-floor/garage/garage-01.jpg": "",
-  "photos/main-floor/hallway/hallway-01.jpg": "Hallway",
-  
-  "photos/main-floor/kitchen-dining/kitchen-dining-01.jpg": "Kitchen/Dining Area",
-  "photos/main-floor/kitchen-dining/kitchen-dining-02.jpg": "Kitchen/Dining Area",
-  "photos/main-floor/kitchen-dining/kitchen-dining-03.jpg": "Kitchen/Dining Area",
-  "photos/main-floor/kitchen-dining/kitchen-dining-04.jpg": "Kitchen/Dining Area",
-  "photos/main-floor/kitchen-dining/kitchen-dining-05.jpg": "Kitchen/Dining Area",
-  "photos/main-floor/kitchen-dining/kitchen-dining-06.jpg": "Kitchen/Dining Area",
-  
-  "photos/main-floor/master-bathroom/master-bathroom-01.jpg": "Master bathroom",
-  "photos/main-floor/master-bathroom/master-bathroom-02.jpg": "Master bathroom",
-  "photos/main-floor/master-bathroom/master-bathroom-03.jpg": "Master bathroom",
-  "photos/main-floor/master-bathroom/master-bathroom-04.jpg": "Master bathroom",
-  "photos/main-floor/master-bathroom/master-bathroom-05.jpg": "Master bathroom",
-  
-  "photos/main-floor/master-bedroom/master-bedroom-01.jpg": "Master bedroom",
-  "photos/main-floor/master-bedroom/master-bedroom-02.jpg": "Master bedroom",
-  "photos/main-floor/master-bedroom/master-bedroom-03.jpg": "Master bedroom",
-  "photos/main-floor/master-bedroom/master-bedroom-04.jpg": "Master bedroom",
-  "photos/main-floor/master-bedroom/master-bedroom-05.jpg": "Master bedroom",
-  
-  "photos/main-floor/mudroom-laundry/mudroom-laundry-01.jpg": "Laundry room",
-  "photos/main-floor/mudroom-laundry/mudroom-laundry-02.jpg": "Laundry room",
-  "photos/main-floor/mudroom-laundry/mudroom-laundry-03.jpg": "Laundry room",
-  "photos/main-floor/mudroom-laundry/mudroom-laundry-04.jpg": "Laundry room",
-  
-  "photos/main-floor/sitting-piano-room/sitting-piano-room-01.jpg": "Sitting room or piano room",
-  "photos/main-floor/sitting-piano-room/sitting-piano-room-02.jpg": "Sitting room or piano room",
-  "photos/main-floor/sitting-piano-room/sitting-piano-room-03.jpg": "Sitting room or piano room",
-  
+  "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-03.jpg": "*Bedroom 2 on the main floor is smaller, perfect for a nursury, small office or bedroom. The room is anchored by a large, arched top window that provides lots of natural light.",
+  "photos/main-floor/bedroom-2-nursery-office/bedroom-2-nursery-office-02.jpg": "A spacious dual door closet with built in shelving provides lots of extra storage space. The 9 foot ceiling, can lights and ceiling fan with four-light fixture add to the natural light from the window.",
+
+  "photos/main-floor/bathroom-2/bathroom-2-17.jpg": "Bathroom #2 on the main floor is in the hallway between Bedrooms 2 and 3 and is also just around the corner from the living area",
+  "photos/main-floor/bathroom-2/bathroom-2-25.jpg": "It features a bath/shower with removable head, sink with knotty alder cabinets, granite countertop, oil-rubbed bronze and brushed nickel hardware, and a tile floor",
+
+  "photos/main-floor/bedroom-3-office/bedroom-3-office-10.jpg": "*Main Floor Office or Bedroom 3",
+  "photos/main-floor/bedroom-3-office/bedroom-3-office-02.jpg": "Main Floor Office or Bedroom 3",
+
   "photos/main-floor/stairs/stairs-01.jpg": "",
+
+  "photos/upstairs/bedroom-4/bedroom-4-01.jpg": "*Upstairs Bedroom 1",
+  "photos/upstairs/bedroom-4/bedroom-4-03.jpg": "Upstairs Bedroom 1",
   
   "photos/upstairs/bathroom-3/bathroom-3-01.jpg": "Upstairs Bathroom",
-  
-  "photos/upstairs/bedroom-4/bedroom-4-01.jpg": "Upstairs Bedroom 1",
-  "photos/upstairs/bedroom-4/bedroom-4-02.jpg": "Upstairs Bedroom 1",
-  "photos/upstairs/bedroom-4/bedroom-4-03.jpg": "Upstairs Bedroom 1",
+
   "photos/upstairs/bedroom-5/bedroom-5-01.jpg": "Upstairs Bedroom 2",
   "photos/upstairs/bedroom-5/bedroom-5-02.jpg": "Upstairs Bedroom 2",
   "photos/upstairs/bedroom-5/bedroom-5-03.jpg": "Upstairs Bedroom 2",
   
   "photos/upstairs/book-nook/book-nook-01.jpg": "",
-  "photos/basement/bathroom-5-laundry-2/bathroom-5-laundry-01.jpg": "",
-  "photos/basement/office-bedroom-9/office-bedroom-9-01.jpg": "",
-  "photos/basement/bedroom-10-office/bedroom-10-office-01.jpg": "Downstairs bedroom/office",
-  
+
   "photos/basement/exercise-room-bedroom-8/exercise-room-bedroom-8-01.jpg": "Downstairs exercise room or large bedroom",
   "photos/basement/exercise-room-bedroom-8/exercise-room-bedroom-8-02.jpg": "Downstairs exercise room or large bedroom",
   "photos/basement/exercise-room-bedroom-8/exercise-room-bedroom-8-03.jpg": "Downstairs exercise room or large bedroom",
   "photos/basement/exercise-room-bedroom-8/exercise-room-bedroom-8-04.jpg": "Downstairs exercise room or large bedroom",
-  
+
+  "photos/basement/bedroom-10-office/bedroom-10-office-01.jpg": "Downstairs bedroom/office",
+
+  "photos/basement/bathroom-5-laundry-2/bathroom-5-laundry-01.jpg": "",
+  "photos/basement/office-bedroom-9/office-bedroom-9-01.jpg": "",
+    
+   
   "photos/basement/food-storage-pantry/food-storage-pantry-01.jpg": "",
   "photos/basement/guest-kitchen-dining-2/guest-kitchen-dining-01.jpg": "",
   "photos/basement/guest-walk-in-closet/guest-walk-in-closet-01.jpg": "",
@@ -88,13 +108,14 @@
   "photos/basement/hallway/hallway-01.jpg": "",
   "photos/basement/living-office-bedroom-7/living-office-bedroom-7-01.jpg": "",
   "photos/basement/utility-room/utility-room-01.jpg": "",
-  "photos/basement/guest-bathroom-4/guest-bathroom-4-01.jpg": "Guest Suite Bathroom",
-  "photos/basement/guest-bathroom-4/guest-bathroom-4-02.jpg": "Guest Suite Bathroom",
+  "photos/basement/guest-bathroom-4/guest-bathroom-4-04.jpg": "Guest Suite Bathroom",
+  "photos/basement/guest-bathroom-4/guest-bathroom-4-05.jpg": "Guest Suite Bathroom",
   "photos/basement/guest-bathroom-4/guest-bathroom-4-03.jpg": "Guest Suite Bathroom",
-  "photos/basement/guest-suite-bedroom-6/guest-suite-bedroom-6-01.jpg": "Guest Suite Bedroom",
+  "photos/basement/guest-suite-bedroom-6/guest-suite-bedroom-6-04.jpg": "Guest Suite Bedroom",
   "photos/basement/guest-suite-bedroom-6/guest-suite-bedroom-6-02.jpg": "Guest Suite Bedroom",
   "photos/basement/guest-suite-bedroom-6/guest-suite-bedroom-6-03.jpg": "Guest Suite Bedroom",
   "photos/basement/small-office/small-office-01.jpg": "",
+  "photos/main-floor/garage/garage-01.jpg": "",
   
   "photos/exterior/east-backyard/east-backyard-01.jpg": "",
   "photos/exterior/neighborhood-location/neighborhood-location-01.jpg": "",
